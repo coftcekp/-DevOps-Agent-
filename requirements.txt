@@ -1,0 +1,6 @@
+openai>=1.0.0
+langchain>=0.1.0
+pydantic>=2.0.0
+paramiko>=3.0.0  # 用于远程 SSH 执行诊断指令
+prometheus_client>=0.17.0  # 用于导出运维指标
+python-dotenv  # 环境变量管理
